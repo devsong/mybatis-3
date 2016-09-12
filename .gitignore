@@ -14,3 +14,24 @@
 /ibderby
 derby.log
 /bin/
+
+.idea
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+target/
+
+# Eclipse Project files
+.classpath
+*.classpath
+.project
+*.project
+.settings/
+.springBeans
+*.springBeans
+
+bin/
+gen/
+local.properties
